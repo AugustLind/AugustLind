@@ -2,6 +2,7 @@
 
 <h4>💼 Positions:</h4>
 <ul>
+  <li>👨‍💻 Perception Member at <a href="https://www.ascendntnu.no/">Ascend NTNU</a></li>
   <li>👨‍💻 AI Consultant at <a href="https://www.astarconsulting.no/">A* Consulting</a></li>
   <li>👾 Former AI Developer at <a href="https://www.linkedin.com/company/cogito-ntnu/mycompany/">Cogito NTNU (LinkedIn)</a></li>
 </ul>
