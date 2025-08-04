@@ -9,7 +9,7 @@
 
 <h4>🎓 Education:</h4>
 <ul>
-  <li>🤖 M.Sc in Cybernetics and Robotics at NTNU (2. year)</li>
+  <li>🤖 M.Sc in Cybernetics and Robotics at NTNU (3. year)</li>
 </ul>
 
 <h3>✨ Selected Projects:</h3>
