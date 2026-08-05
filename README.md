@@ -3,7 +3,8 @@
 <h4>💼 Positions:</h4>
 <ul>
   <li>👨‍💻 Chief Engineer at <a href="https://www.ascendntnu.no/">Ascend NTNU</a></li>
-  <li>👨‍💻 Junior Software engineer at <a href="https://www.storebrand.com/">Storebrand</a></li>
+  <li>👨‍💻 Summer intern (Localhawk project) at <a href="https://www.kongsberg.com/">Kongsberg</a></li>
+  <li>👨‍💻 Former Junior Software engineer at <a href="https://www.storebrand.com/">Storebrand</a></li>
   <li>👨‍💻 Former Perception Member at <a href="https://www.ascendntnu.no/">Ascend NTNU</a></li>
   <li>👨‍💻 Former AI Consultant at <a href="https://www.astarconsulting.no/">A* Consulting</a></li>
   <li>👾 Former AI Developer at <a href="https://www.linkedin.com/company/cogito-ntnu/mycompany/">Cogito NTNU (LinkedIn)</a></li>
@@ -11,7 +12,7 @@
 
 <h4>🎓 Education:</h4>
 <ul>
-  <li>🤖 M.Sc in Cybernetics and Robotics at NTNU (3. year)</li>
+  <li>🤖 M.Sc in Cybernetics and Robotics at NTNU (4th year)</li>
 </ul>
 
 <h3>✨ Selected Projects:</h3>
